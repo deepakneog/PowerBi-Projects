@@ -1,3 +1,3 @@
 Hello there,
 
-Here you can find my PowerBI projects.
+Here you will find my PowerBI projects.
